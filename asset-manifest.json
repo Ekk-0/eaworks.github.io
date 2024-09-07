@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ekk-0.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/ekk-0.github.io/static/js/main.6ed0450a.js",
+    "static/js/453.88a2456f.chunk.js": "/ekk-0.github.io/static/js/453.88a2456f.chunk.js",
+    "static/media/logo.svg": "/ekk-0.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ekk-0.github.io/index.html",
+    "main.f855e6bc.css.map": "/ekk-0.github.io/static/css/main.f855e6bc.css.map",
+    "main.6ed0450a.js.map": "/ekk-0.github.io/static/js/main.6ed0450a.js.map",
+    "453.88a2456f.chunk.js.map": "/ekk-0.github.io/static/js/453.88a2456f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6ed0450a.js"
+  ]
+}
